@@ -1,0 +1,15 @@
+# Antarctic Light — MIT license
+[colors]
+foreground = "#344C59"
+background = "#EDF3F7"
+cursor_bg = "#177277"
+cursor_fg = "#F3FBFF"
+cursor_border = "#177277"
+selection_bg = "#344C59"
+selection_fg = "#F3FBFF"
+ansi = ["#1D2D33", "#99372C", "#2A7459", "#915B17", "#344C59", "#9E468E", "#416F72", "#626968"]
+brights = ["#626968", "#C13026", "#2A7459", "#A15212", "#436E76", "#B22B9F", "#177277", "#344C59"]
+
+[metadata]
+name = "Antarctic Light"
+author = "AntarcticTheme"

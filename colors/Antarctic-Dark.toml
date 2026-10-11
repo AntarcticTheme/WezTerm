@@ -1,0 +1,15 @@
+# Antarctic Dark — MIT license
+[colors]
+foreground = "#F3FBFF"
+background = "#1D2D33"
+cursor_bg = "#5CD5DC"
+cursor_fg = "#142228"
+cursor_border = "#5CD5DC"
+selection_bg = "#344C59"
+selection_fg = "#F3FBFF"
+ansi = ["#142228", "#E58B80", "#73D5AD", "#E5B16A", "#7FB3B7", "#CE8BC1", "#7FB3B7", "#9BAAAE"]
+brights = ["#9BAAAE", "#F5A094", "#73D5AD", "#F3BE83", "#92C1CA", "#E6A0D8", "#5CD5DC", "#F3FBFF"]
+
+[metadata]
+name = "Antarctic Dark"
+author = "AntarcticTheme"
